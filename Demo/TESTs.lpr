@@ -8,7 +8,7 @@ uses
   Test__sRGB_2_XYZ_2_sRGB,
   Test__sRGB_2_Lab_2_sRGB,
   Test__deltaE2000,
-  Test__Calc_DELTA;
+  Test__Calc_DELTA, Test__sRGB_2_HVS_2_sRGB;
 {$R *.res}
 
 begin
